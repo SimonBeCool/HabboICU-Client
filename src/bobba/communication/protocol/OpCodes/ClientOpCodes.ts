@@ -1,0 +1,15 @@
+export const LOGIN = 1;
+export const REQUEST_MAP = 2;
+export const REQUEST_MOVEMENT = 7;
+export const REQUEST_CHAT = 9;
+export const REQUEST_LOOK_AT = 12;
+export const REQUEST_WAVE = 13;
+export const REQUEST_ROOM_DATA = 15;
+export const REQUEST_ITEM_INTERACT = 18;
+export const REQUEST_ITEM_MOVE = 19;
+export const REQUEST_ITEM_PICK_UP = 20;
+export const REQUEST_CHANGE_LOOKS = 21;
+export const REQUEST_CHANGE_MOTTO = 22;
+export const REQUEST_INVENTORY_ITEMS = 23;
+export const REQUEST_ITEM_PLACE = 24;
+export const REQUEST_ROOM_LEAVE = 25;
