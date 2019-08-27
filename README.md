@@ -1,2 +1,5 @@
 # HabboICU Client
- This Project is based of Bobba.IO from Josedn
+
+This project is based on a older version from bobba.io.
+Copyright (c) 2019 - based by relevance (@Josedn) & advanced developed by Satoshi
+
